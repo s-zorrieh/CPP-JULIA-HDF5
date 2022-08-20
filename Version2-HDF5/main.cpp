@@ -27,7 +27,6 @@ int main()
         row.lsnum;
         row.nbnum;
         row.channelid;
-        auto  sum{0};
 
         for(size_t i = 0, total = row.data.lenght(); i < total; ++i){ /* TODO: */  }
     }
